@@ -48,8 +48,6 @@
 
 ## 使用
 
-下载`jar`包或自行使用`maven`打包：[下载链接](https://github.com/EmYiQing/JNDIKit/releases/download/1.0/JNDIKit-1.0.jar)
-
 命令：`java -jar JNDIKit.jar --cmd calc.exe`
 
 如果命令中包含空格请用引号包裹：`--cmd 'your command'`
